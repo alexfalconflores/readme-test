@@ -12,6 +12,8 @@
 	<img src="https://avatars.githubusercontent.com/u/75406302?v=4" class="img" height="200" alt="autor: Alex Falcon Flores"/>
 	<br>
 	<a href="https://github.com/alexfalconflores">Alex Stefano Falcon Flores</a>
+	<br>
+	<img src="profile.svg" alt="alex"/>
 </p>
 
 * [![Next][Next.js]][Next-url]
