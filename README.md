@@ -15,6 +15,7 @@
 	<br>
 	<img src="profile.svg" alt="alex"/>
 	<br>
+	<img src="profile2.svg" alt="alex"/>
 </p>
 
 <p align="center">
